@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/rzmk/instagram-project">
+    <img src="public/images/instagram-logo.svg" alt="Instagram" width="80" height="80">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Instagram Clone</h3>
+</div>
 
-## Available Scripts
+<!-- ABOUT THE PROJECT -->
 
-In the project directory, you can run:
+## About The Project
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+https://user-images.githubusercontent.com/30333942/127724220-f7366455-d75a-448d-9616-8fead74f079d.mp4
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+An Instagram clone to learn how to develop a full stack web application.
 
-### `npm test`
+### Details
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-   Developing based on the [Clever Programmer Instagram Clone Tutorial](https://www.youtube.com/watch?v=f7T48W0cwXM) tutorial.
+-   Collaborating with colleagues as a side project to learn more about full stack development!
+-   Allows for uploading captions and photos, comments, and an authentication system.
 
-### `npm run build`
+https://user-images.githubusercontent.com/30333942/127724273-486ea946-9357-4701-a66c-ee7342f54cc8.mp4
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-   [React](https://reactjs.org/)
+-   [Firebase](https://firebase.google.com/)
+-   [Material UI](https://material-ui.com/)
+-   [CSS Gradient Animator](https://www.gradient-animator.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- CONTRIBUTING -->
 
-### `npm run eject`
+## Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- CONTACT -->
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Contact
 
-## Learn More
+Mueez Khan - [@mueezkhan\_](https://twitter.com/mueezkhan_)
+Suryateja Gandhesiri - [@suryaaa-g](https://github.com/suryaaa-g)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Project Link: [https://github.com/rzmk/instagram-project](https://github.com/rzmk/instagram-project)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- ACKNOWLEDGEMENTS -->
 
-### Code Splitting
+## Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-   [Clever Programmer Instagram Clone Tutorial](https://www.youtube.com/watch?v=f7T48W0cwXM)
+-   [Best-README-Template](https://github.com/othneildrew/Best-README-Template)

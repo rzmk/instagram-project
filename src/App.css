@@ -1,38 +1,73 @@
-.App {
-  text-align: center;
+* {
+	margin: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html,
+.app {
+	background: linear-gradient(0deg, #8134af, #dd2a7b, #f58529);
+	background-size: 600% 600%;
+
+	-webkit-animation: AnimationName 27s ease infinite;
+	-moz-animation: AnimationName 27s ease infinite;
+	animation: AnimationName 27s ease infinite;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.app__header {
+	background-color: white;
+	object-fit: contain;
+	padding: 20px;
+	border-bottom: 1px solid lightgray;
+	object-fit: contain;
+	display: flex;
+	justify-content: space-between;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.app__headerImage {
+	object-fit: contain;
 }
 
-.App-link {
-  color: #61dafb;
+.app__posts {
+	padding: 20px;
+	display: grid;
+	place-content: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.app__signup {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+@-webkit-keyframes AnimationName {
+	0% {
+		background-position: 51% 0%;
+	}
+	50% {
+		background-position: 50% 100%;
+	}
+	100% {
+		background-position: 51% 0%;
+	}
+}
+@-moz-keyframes AnimationName {
+	0% {
+		background-position: 51% 0%;
+	}
+	50% {
+		background-position: 50% 100%;
+	}
+	100% {
+		background-position: 51% 0%;
+	}
+}
+@keyframes AnimationName {
+	0% {
+		background-position: 51% 0%;
+	}
+	50% {
+		background-position: 50% 100%;
+	}
+	100% {
+		background-position: 51% 0%;
+	}
 }
